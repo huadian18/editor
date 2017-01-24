@@ -22,5 +22,7 @@
     }
     ```
         保存在默认的目录下即可，注意修改文件名为 php.sublime-build 。执行快捷键为`Ctrl+b`。
-##github
+##添加代码片段
+    Tools->New Snippet
+##
 
